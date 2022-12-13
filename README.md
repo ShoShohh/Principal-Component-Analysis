@@ -1,0 +1,2 @@
+# Principal-Component-Analysis
+PCA with Rの入門という擦られに擦られている内容ですが、自明じゃないことも書いたので気になったことは調べてみると面白いと思います。
